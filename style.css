@@ -1,0 +1,36 @@
+.head img  {
+    border-radius: 50%;
+    margin-top: 30px;
+}
+body {
+    background: #25e4e1;
+}
+/* .container {
+    display: flex;
+    align-items: center;
+} */
+.head {
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* text-align: center;/ */
+    flex-wrap: wrap;
+    gap: 80px;
+}
+span {
+    color: red;
+}
+.header {
+    margin-top: 20px;
+    width: 400px;
+    height: 500px;
+    background: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    /* flex-wrap: wrap; */
+    flex-direction: column;
+    text-align: center;
+
+    /* gap: 200px; */
+}
